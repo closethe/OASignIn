@@ -6,10 +6,10 @@ import time
 username = "closethe"
 password = "123456"
 #OA配置文件
-oaLoginURL0 = "http://oa.bangcle.com/login/Login.jsp?logintype=1"
-oaLoginURL1 = "http://oa.bangcle.com/login/VerifyLogin.jsp"
-isWorkTimeURL = "http://oa.bangcle.com/wui/theme/ecology8/page/getSystemTime.jsp?field=HH&token="
-signURL = "http://oa.bangcle.com/hrm/schedule/HrmScheduleSignXMLHTTP.jsp?t="
+oaLoginURL0 = "http://oa.xxxxxx.com/login/Login.jsp?logintype=1"
+oaLoginURL1 = "http://oa.xxxxxx.com/login/VerifyLogin.jsp"
+isWorkTimeURL = "http://oa.xxxxxx.com/wui/theme/ecology8/page/getSystemTime.jsp?field=HH&token="
+signURL = "http://oa.xxxxxx.com/hrm/schedule/HrmScheduleSignXMLHTTP.jsp?t="
 #全局变量
 user_agent_list = [
 "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1",
